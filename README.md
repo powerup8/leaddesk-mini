@@ -4,7 +4,7 @@ A minimal lead-capture and admin desk built with Next.js 14 (App Router), Supaba
 
 ## 1. Live URLs & Credentials
 
-- **Live site:** `https://leaddesk-mini.vercel.app` _(replace with your actual Vercel deployment URL after deploying)_
+- **Live site:**  https://leaddesk-mini-dun-gamma.vercel.app/
 - **Admin login:** `/login`
 - **Test account:**
   - Email: `admin@example.com`
